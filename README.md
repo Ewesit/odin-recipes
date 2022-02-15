@@ -1,1 +1,2 @@
 # odin-recipes
+Taking the top position is All Recipes, a top-tier recipe website that is estimated to have over 25 million visitors each month. With a crisp and easily navigable site and backing of skilled and experienced culinary masters, this platform furnishes its visitors with thousands of recipes and meal preparation videos. It also features comprehensive how-to-do guides on absolutely everything food-related topics. The site also permits users to create profiles and share their secret recipes with others.
